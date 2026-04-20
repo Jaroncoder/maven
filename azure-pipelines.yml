@@ -1,6 +1,6 @@
 trigger:
 - main
-pool: maven
+pool: sample
 steps:
 - task: Maven@4
   inputs:
