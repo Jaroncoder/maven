@@ -1,6 +1,6 @@
 trigger:
 - main
-pool: devops
+pool: lab
 steps:
 - task: Maven@4
   inputs:
